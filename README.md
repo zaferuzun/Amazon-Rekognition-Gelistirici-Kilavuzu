@@ -2,9 +2,11 @@ https://www.academia.edu/43452595/AMAZON_REKOGN%C4%B0T%C4%B0ON_GEL%C4%B0%C5%9ET%
 
 
 Çevirenler
+
 Emre ÖZTÜRK
 https://github.com/emre7575
 
 Zafer UZUN
+
 https://independent.academia.edu/ZaferUZUN5
 https://github.com/zaferuzun
